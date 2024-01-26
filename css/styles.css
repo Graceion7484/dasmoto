@@ -1,0 +1,38 @@
+/*css reset*/
+body,header,nav,main,header,h1,div{
+margin:0;
+padding:0;
+border:0;
+}
+
+h1 {
+font-family: Helvetica;
+font-size: 100px;
+font-weight:bold;
+color: khaki;
+background-image:url("../images/pattern.jpg");
+}
+
+ #brush{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;  
+    background: mediumspringgreen;  
+}
+
+ #frame{
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background:lightcoral;
+}
+
+ #paint{
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background:skyblue;
+}
